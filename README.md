@@ -1,6 +1,6 @@
 # FW64
 
-Repository contains Pyton file, Excel spreadsheet csv file, and Readme file 
+Repository contains Pyton file, csv file, and readme file.
 
 TITLE:
 
