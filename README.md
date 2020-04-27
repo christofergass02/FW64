@@ -1,4 +1,4 @@
-# FW 64
+# Fair World 64
 
 Repository contains Pyton file, csv file, and readme file.
 
