@@ -1,6 +1,6 @@
 # FW64
 
-Fair World 64 is a text-based game for the Digital Humanities capstone requirement.
+Fair World 64: A Text-Based Game of the 1964-1965 World’s Fair
 
 ABSTRACT:
 
