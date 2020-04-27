@@ -2,7 +2,7 @@
 
 Fair World 64 is a text-based game for the Digital Humanities capstone requirement.
 
-Abstract
+ABSTRACT:
 
 The project is a text-based game of a typical day during the first season of the 1964 World’s Fair in what is now Flushing Meadows-Corona Park. The 1964-1965 World’s Fair, that Robert Moses presided over as president, was one of the largest and most expensive fairs ever created, but only days after the last fairgoer left through the turnstile most of the many pavilions that brought education, entertainment, and joy to so many people were destroyed to leave a vast open space that is relatively empty to this day. Although most of the pavilions were either relocated or demolished, there are a few structures and traces that live on since the end of the second and last World’s Fair in Flushing Meadows-Corona Park. Pavilions such as the New York City Pavilion and the Singer Bowl, which are now the Queens Museum and Louis Armstrong Stadium, respectively, are still visited and enjoyed to this day, and renovations to other significant parts from the Fair, such as the towers of the New York State Pavilion and the Pool of Reflections, are further signs of life from the Fair’s half century past.		
   
