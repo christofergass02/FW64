@@ -1,6 +1,6 @@
 # Fair World 64
 
-Repository contains a Python file, csv file, and readme file.
+Repository contains a Python file, CSV file, and READM file.
 
 TITLE:
 
