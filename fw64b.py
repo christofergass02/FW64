@@ -477,7 +477,7 @@ def gc_pav():
     time.sleep(2)
     length(30)
     print("After you enjoy the show you decide where to head to next.")
-    print("To the left is THE SOLAR FOUNTAIN\nand to the right is THE JAPAN PAVILION ")
+    print("To the left is THE SOLAR FOUNTAIN\nand to the right is THE JAPAN PAVILION.")
     gc1()
 def gc1():
     choice = input("Which way do you go?\nleft or right?\n ") 
@@ -502,7 +502,7 @@ def ge_pav():
     time.sleep(2)
     length(45)
     print("Where would you like to go next?")
-    print("To the left is THE TOWER OF LIGHT PAVILION\nand to the right is THE CLAIROL PAVILION ")
+    print("To the left is THE TOWER OF LIGHT PAVILION\nand to the right is THE CLAIROL PAVILION.")
     ge1()
 def ge1():
     choice = input("Which way do you go?\nleft or right?\n ") 
@@ -904,7 +904,7 @@ def minnesota_pav():
     time.sleep(2)
     length(25)
     print("Where would you like to go to now?")
-    print("To the left is THE LOUISIANA\nand to the right is THE NEW YORK STATE PAVILION.")
+    print("To the left is THE LOUISIANA PAVILION\nand to the right is THE NEW YORK STATE PAVILION.")
     minn1()
 def minn1():
     choice = input("Which way do you go?\nleft or right?\n ") 
