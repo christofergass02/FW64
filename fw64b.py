@@ -2163,7 +2163,7 @@ def name():
     print("")
     print("Hello, " + name + "!")
     print("After riding your bike around the neighborhood, you")
-    print("decide to see what all the excitement was about at the park\nand now you find yourself at a fence near the fairgrounds.")
+    print("decide to see what all the excitement is about at the park\nand now you find yourself at a fence near the fairgrounds.")
     print("It looks like you can jump over it.\n")
     time.sleep(2)
     intro()
