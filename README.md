@@ -2,6 +2,9 @@
 
 Repository contains a Python file, CSV file, and READM file.
 
+### HOW TO PLAY
+First downloaded the Python file from the repository. Once downloaded the file can then be opened in the command line to be played. if Python 3 is not installed install Python 3. The player types the controls 'left', 'right', 'yes', and 'no' to navigate the avatar through the eastern side of the fairgrounds. There are three ways the player can complete the game: run out of money, run out of time, or reach the Lake Amusement Area or Transportation Area. Once the game has ended the screen will quit back to the command prompt window.
+
 ### TITLE:
 
 Fair World 64: A Text-Based Game of the 1964-1965 World’s Fair
